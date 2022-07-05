@@ -1,1 +1,70 @@
-site_name: My Docs
+site_name: Adl3rAi的个人网站
+site_url: https://adl3rai.github.io/Adl3rAi-mkdocs-site/
+site_author: Adl3rAi
+site_description: Adl3rAi的个人网站
+
+theme:
+  name: material
+  palette: 
+    - scheme: default 
+      primary: indigo 
+      accent: orange 
+      toggle:
+        icon: material/weather-night 
+        name: 切换至夜间模式 
+    - scheme: slate 
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
+  features:
+    - navigation.tabs 
+    - navigation.top 
+    - navigation.indexes 
+    - navigation.expand 
+    - search.suggest 
+    - search.highlight 
+  language: zh 
+  icon:
+    repo: fontawesome/brands/github
+edit_uri: edit/main/docs 
+
+repo_url: https://github.com/Adl3rAi/Adl3rAi-mkdocs-site
+repo_name: Adl3rAi
+
+copyright: Copyright &copy; 2022 Adl3rAi 
+
+extra:
+  social: 
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/34817352
+      name: Bilibili | AdlerAi
+    - icon: fontawesome/brands/github
+      link: https://github.com/Adl3rAi
+      name: GitHub | Adl3rAi
+
+
+plugins:
+  - search: 
+      lang:
+        - en
+        - de
+  - tags
+markdown_extensions:
+  - pymdownx.arithmatex: 
+      generic: true
+  - attr_list 
+  - toc:
+      permalink: true 
+  - pymdownx.highlight: 
+     
+  - pymdownx.superfences 
+  - meta
+extra_javascript:
+  
+  - mkdocs/javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js 
+  - mkdocs/css/no-footer.css 
+  - mkdocs/css/unordered-list-symbols.css
