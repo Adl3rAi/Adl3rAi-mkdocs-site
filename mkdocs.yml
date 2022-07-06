@@ -13,7 +13,7 @@ theme:
         icon: material/toggle-switch 
         name: 切换至夜间模式 
     - scheme: slate 
-      primary: white
+      primary: black
       accent: orange
       toggle:
         icon: material/toggle-switch-off-outline
