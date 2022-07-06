@@ -7,16 +7,16 @@ theme:
   name: material
   palette: 
     - scheme: default 
-      primary: indigo 
+      primary: black 
       accent: orange 
       toggle:
-        icon: material/weather-night 
+        icon: material/toggle-switch 
         name: 切换至夜间模式 
     - scheme: slate 
-      primary: indigo
+      primary: white
       accent: orange
       toggle:
-        icon: material/weather-sunny
+        icon: material/toggle-switch-off-outline
         name: 切换至日间模式
   features:
     - navigation.tabs 
@@ -44,6 +44,9 @@ extra:
       link: https://github.com/Adl3rAi
       name: GitHub | Adl3rAi
 
+nav:
+  - 历史笔记:
+      - 长城笔记: history/the_great_wall/tgw.md         
 
 plugins:
   - search: 
