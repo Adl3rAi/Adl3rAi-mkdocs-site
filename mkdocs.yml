@@ -45,8 +45,12 @@ extra:
       name: GitHub | Adl3rAi
 
 nav:
-  - 历史笔记:
-      - 长城笔记: history/the_great_wall/tgw.md         
+  - History:
+      - The Great Wall of China:
+        - The build-era sorted by nine garrisons: history/the_great_wall/tgw.md
+  - Language:
+      - German:
+        - Apple and iPhone: language/german/text1.md         
 
 plugins:
   - search: 
