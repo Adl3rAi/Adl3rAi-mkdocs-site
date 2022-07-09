@@ -1,6 +1,5 @@
 # [ "Wir haben ein Jahr Vorsprung"](https://www.spiegel.de/netzwelt/mobil/nokia-reaktion-auf-apples-iphone-wir-haben-ein-jahr-vorsprung-a-458742.html)
 
-### Nokia-Reaktion auf Apples iPhone
 
 **Apples iPhone könnte den Markt für Multimedia-Handys gewaltig <u>durcheinanderwirbeln</u>.**
 
@@ -74,3 +73,35 @@
 **Das iPhone ist ein cooles Gerät, aber es könnte sich als <u>knifflig</u> erweisen.**
 
 * knifflig == tricky
+
+---
+
+# [Apple auf dem Weg zu neuen Märkten](https://www.spiegel.de/netzwelt/mobil/internationale-presseshow-apple-auf-dem-weg-zu-neuen-maerkten-a-458769.html)
+
+**In der internationalen Presse <u>herrscht weitgehende Einigkeit</u>: Was Apple da auf der Macworld Expo vorgestellt hat, <u>ist ein Knaller</u>. Doch nicht alle Branchenbeobachter <u>haut</u> das Handy gleich <u>um</u>.**
+
+* 表明共识：herrscht weitgehende Einigkeit
+* 表明冲击：ein Knaller
+* 表明征服(umhauen)：Das Handy haut alle Branchenbeobachter gleich um.
+
+
+
+**Niemand, der <u>sich</u> heute dieses Thema <u>entgehen</u> lassen würde. Da kann die liebe Konkurrenz nur <u>vor Neid</u> <u>erblassen</u>: An diesem Morgen <u>erntet</u> Apple mehr Presse, als die 2700 Aussteller der CES in Las Vegas zusammen in der ganzen Woche erhalten werden.**
+
+* sich etw entgehen == miss sth.
+* vor Neid erblassen: "在嫉妒前"脸色变白，形容不如某人某物，<u>Ich erblasse vor ihm</u>表明“我”不及“他”
+* ernten == reap
+
+
+
+**Das iPhone, schreiben die Asiaten, könnte sowohl Apple als auch den ganzen Mobilmarkt <u>umkrempeln</u>.**
+
+* umkrempeln == hochschlagen == hochkrempeln == 彻底改变
+
+
+
+**Gar nicht <u>abwegig</u>, dass das reichen könnte, das iPhone trotz fehlender 3G-Features zu einem Erfolg zu machen. Wenn da nicht noch ein ebenfalls Apple-typischer <u>Haken</u> wäre: Das Ding wird richtig, richtig teuer.**
+
+* abwegig == absurd
+* Haken == Nachteil
+

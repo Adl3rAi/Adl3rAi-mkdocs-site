@@ -50,7 +50,7 @@ nav:
         - The build-era sorted by nine garrisons: history/the_great_wall/tgw.md
   - Language:
       - German:
-        - Apple and iPhone: language/german/text1.md         
+        - Apple und iPhone: language/german/text1.md         
 
 plugins:
   - search: 
