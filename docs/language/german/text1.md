@@ -7,7 +7,7 @@
 
 
 
-**Wir glauben, dass <u>derartige</u> vernetzte Multimediageräte jene Geräte <u>ablösen</u> werden, dir nur eine einzige Funktion haben.**
+**Wir glauben, dass <u>derartige</u> vernetzte Multimediageräte jene Geräte <u>ablösen</u> werden, der nur eine einzige Funktion haben.**
 
 * derartig == this kind of(auf Englisch)
 
@@ -105,3 +105,76 @@
 * abwegig == absurd
 * Haken == Nachteil
 
+---
+
+# [Schärfer, schneller, ausdauernder](https://www.spiegel.de/netzwelt/gadgets/steve-jobs-stellt-iphone-4-vor-schaerfer-schneller-ausdauernder-a-699284.html)
+
+**Sekunden später zeigte er das erste offizielle Bild des neue Smartphones, über das seit langem <u>orakelt</u> wurde.**
+
+* orakeln == oracle(auf englisch) == voraussagen == vorhersagen
+
+
+
+**Die <u>schlachteten</u> ihr Wissen reichlich <u>aus</u>, bevor sie das Gerät auf Anfrage Apples zurückgaben.**
+
+* ausschlachten (毫无顾及地)利用[贬]/拆除有用的零件
+
+
+
+**<u>Humorvoll jedenfalls kann man es nicht nennen</u>, dass Gizmodo nun die Akkreditierend zur WWDC-Eröffnungsveranstaltung <u>verwehrt</u> wurde.**
+
+* verwehren == abweisen/ablehnen/verweigern
+* Adj jedenfalls kann man es nicht nennen: 无论如何不能说是...，例如：无论如何，安倍晋三的去世不能说是一件高兴的事: <u>Fröhlich jedenfalls kann man es nicht nennen, dass Shinzo Abe nach Attentat gestorben war.</u>
+
+
+
+**Steve Jobs <u>rechnet</u> das in 300 Stunden Standby-Zeit, sieben Stunden Sprechzeit und zehn Stunden Video gucken <u>um</u>.**
+
+* um/rechnen == 换算
+
+
+
+**Mit einer Auflösung von fünf Megapixeln <u>schließt</u> sie <u>zum</u> Smartphone-Standard <u>auf</u>, wird von einem LED-Blitz begleitet, der bei schlechtem Umgebungslicht helfen soll.**
+
+* aufschließen zu == catch up with
+
+
+
+**Bemerkenswert ist allerdings, dass sie auch noch <u>Videos</u> in der HD-Auflösung 720p <u>aufnehmen</u> kann. Hier dürfte der A4-Prozessor die treibende Kraft sein. <u>Passend dazu</u> bietet Apple ab sofort eine an das Handy angepasste Version von Apples Videoschnittsoftware iMovie im App Store zum Preis von 4,99 Dollar an.**
+
+* Video aufnehmen == record video
+* passend dazu ... 恰好的是...
+
+
+
+**<u>Darüber hinaus</u> wird das iPhone 4 mit einer zusätzlichen Kamera für Videotelefonate <u>ausgestattet</u> sein.**
+
+* Darüber hinaus == Furthermore
+* ausstatten == equip
+
+
+
+**Auch dafür hat sich das Unternehmen einen <u>griffig</u>en Namen <u>ausgedacht</u> und bezeichnet die, bei anderen Smartphones längst <u>gängig</u>e, Videotelefoniefunktion als FaceTime.**
+
+* griffige Namen: 响亮的名字
+* gängig == common
+* ausdenken == come up with
+
+
+
+**... ob diese Funktion danach auch für die Nutzung in UMTS-Netzen <u>freigeschaltet</u> wird, sagt Jobs allerdings nichts.**
+
+* freigeschaltet 自动打开的，自动接通的
+
+
+
+**Die wichtigsten neuen Funktionen: <u>Eingeschränkt</u>es Multitasking, Apps können in Ordner sortiert werden, sowie eine <u>vereinheitlicht</u>e Inbox, in der neue Nachrichten aller E-Mail-Accounts zusammengeführt werden, die das iPhone abfragt.**
+
+* einschränken == limit
+
+
+
+**<u>Ebenso wie</u> am Apple Tablet. soll man damit Bücher und PDF-Dateien lesen und <u>mit Anmerkungen versehen</u> können.**
+
+* ebenso wie == just like
+* mit Anmerkungen ... versehen == annotate
