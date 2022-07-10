@@ -8,13 +8,13 @@ theme:
   palette: 
     - scheme: default 
       primary: black 
-      accent: orange 
+      accent: blue 
       toggle:
         icon: material/toggle-switch 
         name: 切换至夜间模式 
     - scheme: slate 
       primary: black
-      accent: orange
+      accent: blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: 切换至日间模式
@@ -52,7 +52,8 @@ nav:
         - The build-era sorted by nine garrisons: history/the_great_wall/tgw.md
   - Language:
       - German:
-        - Apple und iPhone: language/german/text1.md         
+        - Apple und iPhone: language/german/text1.md
+        - Foxconns Suizide: language/german/text2.md       
 
 plugins:
   - search: 
