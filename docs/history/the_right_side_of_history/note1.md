@@ -52,6 +52,6 @@
 
 从古犹太人获得的神圣性是尽可能地寻找上帝，接近上帝。(目标)；
 
-从古希腊人获得的理性工具(*不过古希腊人是使用理性去探求the nature of the universe*)。
+从古希腊人获得的理性工具(*不过古希腊人是使用理性去探求the nature of the universe，从另一个角度来看the nature of the universe也是上帝的另一种形式。*)。
 
 将二者结合一下就是，使用古希腊人的理性工具去不断接近上帝的过程就是the pursuit of happiness，对于Ben Shapiro而言，就是一种高级的幸福。

@@ -46,6 +46,8 @@ extra:
 
 nav:
   - History:
+      - The Right Side of History:
+        - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md
       - The Great Wall of China:
         - The build-era sorted by nine garrisons: history/the_great_wall/tgw.md
   - Language:
