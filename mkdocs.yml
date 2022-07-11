@@ -55,8 +55,8 @@ nav:
         - Apple:
           - Apple und iPhone: language/german/apple/text1.md
           - Apple und Foxconns Suizide: language/german/apple/text2.md   
-      - Beim Bau der chinesischen Mauer:
-        - I: language/german/beim_bau_der_chinesischen_mauer/text1.md
+        - Beim Bau der chinesischen Mauer:
+          - I: language/german/beim_bau_der_chinesischen_mauer/text1.md
 
 plugins:
   - search: 
