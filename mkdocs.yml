@@ -52,8 +52,11 @@ nav:
         - The build-era sorted by nine garrisons: history/the_great_wall/tgw.md
   - Language:
       - German:
-        - Apple und iPhone: language/german/text1.md
-        - Foxconns Suizide: language/german/text2.md       
+        - Apple:
+          - Apple und iPhone: language/german/apple/text1.md
+          - Apple und Foxconns Suizide: language/german/apple/text2.md   
+      - Beim Bau der chinesischen Mauer:
+        - I: language/german/beim_bau_der_chinesischen_mauer/text1.md
 
 plugins:
   - search: 
