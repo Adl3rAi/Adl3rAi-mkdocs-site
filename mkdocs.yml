@@ -57,6 +57,8 @@ nav:
           - Apple und Foxconns Suizide: language/german/apple/text2.md   
         - Beim Bau der chinesischen Mauer:
           - I: language/german/beim_bau_der_chinesischen_mauer/text1.md
+        - Öko und Welt:
+          - Ökostrom - was der Umwelt wirklich nutzt: language/german/oeko/text1.md
 
 plugins:
   - search: 
