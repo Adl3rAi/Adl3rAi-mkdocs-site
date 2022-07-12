@@ -70,3 +70,20 @@
 * zur Verfügung == available 
 * imstande == able: imstande sein. ... zu tun == be able to do
 * Zu ... konnten ... werden; aber ... war ... nötig; ein Mann, der ... war, ... mitzufühlen, um was es ... ging. Und je höher ... , desto größer ... Und solche Männer standen ..., wenn ... , wie sie ... hätte verbrauchen können, so ...
+
+
+
+**Man war nicht <u>leichtsinnig</u> <u>an</u> das Werk <u>herangegangen</u>. Fünfzig Jahre vor Beginn des Baues hatte man im ganzen China, das ummauert werden sollte, die Baukunst, insbesondere das Mauerhandwerk, zur wichtigsten Wissenschaft erklärt und alles andere nur anerkannt, soweit es <u>damit in Beziehung stand</u>.**
+
+* leichtsinnig == sorglos
+* an etw(A) herangehen == 做...工作
+* mit etw(D) in Beziehung stehen == 同...有关系 == 与...相关
+
+
+
+**Ich erinnere mich sehr wohl, wie wir als kleine Kinder, kaum unserer Beine sicher, im Gärtchen unseres Lehrers standen, aus <u>Kieselsteinen</u> eine Art Mauer bauen mussten, wie der Lehrer <u>den Rock schürzte</u>, <u>gegen die Mauer rannte</u>, natürlich alles zusammenwarf und <u>uns</u> wegen der Schwäche unseres Baus solche <u>Vorwürfe machte</u>, dass wir heulend <u>uns</u> nach allen Seiten zu unseren Eltern <u>verliefen</u>. - Ein <u>winzig</u>er Vorfall, aber bezeichnend für den Geist der Zeit.**
+
+* den Rock schürzen 撩起裙子
+* jm Vorwürfe machen 批评某人
+* sich zu ... verliefen
+* winzig == ganz klein
