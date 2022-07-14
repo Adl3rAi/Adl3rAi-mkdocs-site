@@ -60,6 +60,8 @@ nav:
           - II: language/german/beim_bau_der_chinesischen_mauer/text2.md
         - Öko und Welt:
           - Ökostrom - was der Umwelt wirklich nutzt: language/german/oeko/text1.md
+        - Politik:
+          - Trägt Finnland zur Uniper-Rettung bei?: language/german/politik/text1.md
 
 plugins:
   - search: 
