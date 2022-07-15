@@ -10,7 +10,7 @@
 
 **Es waren Maurer, die viel über den Bau nachgedacht hatte und nicht aufhörten, darüber nachzudenken, die sich mit dem ersten Stein, den sie in den Boden einsenken ließen, <u>dem Bau verwachsen fühlten</u>.**
 
-* etw(D) vervachsen fühlen 同...有联系
+* etw(D) verwachsen fühlen 同...有联系
 
 
 
