@@ -49,6 +49,7 @@ nav:
       - Data Structure:
         - Linked List:
           - 0 Single Linked List: algorithm/linked_list/single.md
+          - 1 Reverse Linked List: algorithm/linked_list/reverse.md
   - History:
       - The Right Side of History:
         - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md
