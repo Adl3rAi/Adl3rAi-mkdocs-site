@@ -45,9 +45,9 @@ extra:
       name: GitHub | Adl3rAi
 
 nav:
-  - iOS-Dev:
-      - CS193p:
-        - Lecture 1: Getting started with SwiftUI: ios-dev/cs193p/lecture1.md
+  # - iOS-Dev:
+  #     - CS193p:
+  #       - Lecture 1: Getting started with SwiftUI: ios-dev/cs193p/lecture1.md
   - Algorithm:
       - Data Structure:
         - Linked List:
