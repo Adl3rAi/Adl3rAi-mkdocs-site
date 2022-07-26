@@ -1,5 +1,7 @@
 # Beim Bau der chinesischen Mauer(II)
 
+**Autor: Franz Kafka**
+
 **Ich sage Glück, denn viele, die früher die oberste Höhe der ihnen zugänglichen Ausbildung erreicht hatten, <u>wussten jahrelang mit ihrem ihrem Wissen nichts anzufangen</u>, <u>trieben sich</u>, im Kopf die großartigsten Baupläne, nutzlos <u>herum</u> und <u>verlotterten in Mengen</u>.**
 
 * wissen mit etw(D) etw(A) zu tun
