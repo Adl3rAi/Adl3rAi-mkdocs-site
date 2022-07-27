@@ -36,3 +36,11 @@
 
 
 
+**Auf den <u>wahrheitsgetreu</u>en Bildern der Künstler sehen wir diese Gesichter der Verdammnis, <u>die aufgerissenen Mäuler</u>, die mit hoch zugespitzten Zähnen besteckten <u>Kiefer</u>, die verkniffenen Augen, die schon nach dem <u>Raub</u> zu schielen scheinen, den das Maul zermalmen und zerreißen wird.**
+
+* wahrheitsgetreu == wahr == wahrhaftig == wahrheitsgemäß
+* aufreißen == zerreißen ➡️ einen Brief aufreißen
+* der Maul == mouth
+* der Kiefer == jaw
+* der Raub == robbery
+

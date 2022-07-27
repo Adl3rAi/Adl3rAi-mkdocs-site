@@ -45,9 +45,10 @@ extra:
       name: GitHub | Adl3rAi
 
 nav:
-  # - iOS-Dev:
-  #     - CS193p:
-  #       - Lecture 1: Getting started with SwiftUI: ios-dev/cs193p/lecture1.md
+  - iOS-Dev:
+      - CS193p:
+        - Lecture 1: Getting started with SwiftUI: ios/cs193p/lec1.md
+        # - Lecture 2: Learning more about SwiftUI: ios/cs193p/lec2.md
   - Algorithm:
       - Data Structure:
         - Linked List:
@@ -76,6 +77,7 @@ nav:
         - Politik:
           - Trägt Finnland zur Uniper-Rettung bei?: language/german/politik/text1.md
           - Wo bleibt das Machtwort des Kanzlers?: language/german/politik/text2.md
+          - Merkels Geschenk: language/german/politik/text3.md
 
 plugins:
   - search: 
