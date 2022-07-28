@@ -47,8 +47,8 @@ extra:
 nav:
   # - iOS-Dev:
   #     - CS193p:
-  #       - Lecture 1: Getting started with SwiftUI: ios/cs193p/lec1.md
-        # - Lecture 2: Learning more about SwiftUI: ios/cs193p/lec2.md
+  #       - Lecture 1: Getting started with SwiftUI: dev/iosstanford/lec1.md
+        # - Lecture 2: Learning more about SwiftUI: dev/iosstanford/lec2.md
   - Algorithm:
       - Data Structure:
         - Linked List:
@@ -70,6 +70,7 @@ nav:
           - II: language/german/beim_bau_der_chinesischen_mauer/text2.md
           - III: language/german/beim_bau_der_chinesischen_mauer/text3.md
           - IV: language/german/beim_bau_der_chinesischen_mauer/text4.md
+          - V: language/german/beim_bau_der_chinesischen_mauer/text5.md
         - Öko und Welt:
           - Ökostrom - was der Umwelt wirklich nutzt: language/german/oeko/text1.md
         - Kultur:

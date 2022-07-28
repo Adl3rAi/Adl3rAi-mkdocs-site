@@ -1,6 +1,6 @@
 # Lecture 2
 
-**ContentView**
+**Content View**
 
 ```swift
 import SwiftUI
