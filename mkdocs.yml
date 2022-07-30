@@ -45,10 +45,10 @@ extra:
       name: GitHub | Adl3rAi
 
 nav:
-  - iOS-Dev:
-      - CS193p:
-        - Lecture 1: Getting started with SwiftUI: dev/iosstanford/lec1.md
-        - Lecture 2: Learning more about SwiftUI: dev/iosstanford/lec2.md
+  # - iOS-Dev:
+  #     - CS193p:
+  #       - Lecture 1: Getting started with SwiftUI: dev/iosstanford/lec1.md
+  #       - Lecture 2: Learning more about SwiftUI: dev/iosstanford/lec2.md
   - Algorithm:
       - Data Structure:
         - Linked List:
@@ -56,6 +56,7 @@ nav:
           - 1 Reverse Linked List: algorithm/linked_list/reverse.md
         - Tree:
           - 0 Binary Tree Basics and Traverse: algorithm/tree/basics.md
+          - 1 Binary Tree Construct: algorithm/tree/build.md
   - History:
       - The Right Side of History:
         - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md

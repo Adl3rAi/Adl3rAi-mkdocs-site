@@ -219,7 +219,7 @@ class Solution {
       return res;
     }
   	int oneSideMax(TreeNode* root) {
-      if(root == nullptr) return;
+      if(root == nullptr) return 0;
       int left = max(0, oneSideMax(root->left));
       int right = max(0, oneSideMax(root->right));
       int pathMaxSum = root->val + left + right;
