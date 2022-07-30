@@ -1,9 +1,9 @@
-# Binary Tree Basics
+# Binary Tree Basics and Traverse
 
 | Difficulty |                           LeetCode                           |                             Note                             |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |     🟢      | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [104. Maximum Depth of Binary Tree](#104-maximum-depth-of-binary-tree) |
-|     🟢      | [144. Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal) | [144. Binary Tree Preorder Traversal](https://github.com/Adl3rAi/leetCodeNotes/blob/main/Binary_Tree.md#144-binary-tree-preorder-traversal) |
+|     🟢      | [144. Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal) | [144. Binary Tree Preorder Traversal](#144-binary-tree-preorder-traversal) |
 |     🟢      | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [543. Diameter of Binary Tree](#543-diameter-of-binary-tree) |
 |     🔴      | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [124. Binary Tree Maximum Path Sum](#124-binary-tree-maximum-path-sum) |
 |     🟢      | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [226. Invert Binary Tree](#226-invert-binary-tree) |
