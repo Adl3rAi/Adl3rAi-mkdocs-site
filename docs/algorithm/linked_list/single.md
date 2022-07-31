@@ -70,7 +70,7 @@ class Solution {
       if(p2 != nullptr) p->next = p2;
       return dummy->next;
     }
-}
+};
 ```
 
 ## 23. Merge k Sorted Lists
@@ -147,7 +147,7 @@ class Solution {
         return a->val > b->val;
       }
     };
-}
+};
 ```
 
 ## 141. Linked List Cycle
@@ -211,7 +211,7 @@ class Solution {
       }
       return false;
     }
-}
+};
 ```
 
 ## 142. Linked List Cycle II
@@ -287,7 +287,7 @@ class Solution {
         return slow;
       }
     }
-}
+};
 ```
 
 ## 876. Middle of the Linked List
@@ -337,7 +337,7 @@ class Solution {
       }
       return slow;
     }
-}
+};
 ```
 
 ## 19. Remove Nth Node From End of List
@@ -402,6 +402,6 @@ class Solution {
       }
       return p2;
     }
-}
+};
 ```
 

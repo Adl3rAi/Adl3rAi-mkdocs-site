@@ -53,7 +53,7 @@ class Solution {
       int rightMax = maxDepth(root->right);
       return max(leftMax, rightMax) + 1;
     }
-}
+};
 ```
 
 **理解递归的关键在于把握住<u>函数的定义</u>,不要掉入具体的递归之中。例如本题中**`int maxDepth(TreeNode* root)`**的定义是**<u>返回以`root`为根的二叉树的最大深度</u>，理解到这一步就足够了。
@@ -112,7 +112,7 @@ class Solution {
       traverse(root->left);
       traverse(root->right);
     }
-}
+};
 ```
 
 `traverse(TreeNode*)`函数用于(前序)遍历二叉树，(前序)遍历的顺序是`NodeVal -> leftTree -> rightTree`，且base case是空二叉树时`return`
@@ -167,7 +167,7 @@ class Solution {
       maxDiameter = max(maxDiameter, diameter);
       return max(left,right) + 1;
     }
-}
+};
 ```
 
 理解`int maxDepth(TreeNode* root)`的含义，在求某二叉树的最大深度的框架中顺便计算出直径，并相互比较以得出最大直径。`diameter = left + right;`
@@ -226,7 +226,7 @@ class Solution {
       res = max(res, pathMaxSum);
       return max(left, right) + root->val;
     }
-}
+};
 ```
 
 理解`int oneSideMax(TreeNode* root)`的含义就是指：一定通过`root`节点的最大单向路径和（要么是`root->leftTree`，要么是`root->rightTree`），其中通过两次递归遍历了二叉树中的每一个节点，从而计算出了每一个节点的`pathMaxSum`
@@ -284,7 +284,7 @@ class Solution {
       traverse(root->left);
       traverse(root->right);
     }
-}
+};
 ```
 
 ## 116. Populating Next Right Pointers in Each Note
@@ -344,7 +344,7 @@ class Solution {
     traverse(node1->right, node2->left);
     traverse(node2->left, node2->right);
   }
-}
+};
 ```
 
 ## 114. Flatten Binary Tree to Linked List
@@ -402,7 +402,7 @@ class Solution {
     }
     p->right = right;
   }
-}
+};
 ```
 
 还是要关注函数`void flatten(TreeNode* root)`的定义：将二叉树拉平成一条链表，根据递归的思想拉平二叉树的步骤是先将左、右子树拉平，再将右链表接到左链表，再将左链表接到右侧。则是<u>先遍历，再操作，本质上就是后序遍历。</u>
@@ -478,6 +478,6 @@ class Solution {
       memo[subTree] = freq + 1;
       return subTree;
     }
-}
+};
 ```
 

@@ -59,7 +59,7 @@ class Solution {
       head = prev;
       return head;
     }
-}
+};
 ```
 
 ## 92. Reverse Linked List II
@@ -114,7 +114,7 @@ class Solution {
     head->next = succ;
     return last;
   }
-}
+};
 ```
 
 ## 25 Reverse Nodes in k-Group
@@ -179,6 +179,6 @@ class Solution {
         }
         return pre;
     }
-}
+};
 ```
 

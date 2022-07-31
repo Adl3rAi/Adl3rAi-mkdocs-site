@@ -64,7 +64,7 @@ class Solution {
     if(lo > hi) return nullptr;
     int index = -1;
     int maxVal = INT_MIN;
-    for(int i = 0; i <= hi; i++) {
+    for(int i = lo; i <= hi; i++) {
       if(maxVal < nums[i]) {
         index = i;
         maxVal = nums[i];
@@ -76,7 +76,7 @@ class Solution {
     root->right = construct(nums, index+1, hi);
     return root;
   }
-}
+};
 ```
 
 ## 105. Construct Binary Tree from Preorder and Inorder Traversal
@@ -138,7 +138,7 @@ class Solution {
       root->right = build(preorder, preStart+leftSize+1, preEnd, inorder, index+1, inEnd);
       return root;
     }
-}
+};
 ```
 
 ## 106. Construct Binary Tree from Inorder and Postorder Traversal
@@ -179,7 +179,7 @@ Output: [-1]
 class Solution {
   public:
   	TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-      
+      return build(inorder, 0, inorder.size()-1, postorder, 0, postorder.size()-1);
     }
   	TreeNode* build(vector<int>& inorder, int inStart, int inEnd, vector<int>& postorder, int postStart, int postEnd) {
       if(inStart > inEnd) return nullptr;
@@ -198,7 +198,7 @@ class Solution {
       root->right = build(inorder, index+1, inEnd, postorder, postStart+leftSize, postEnd-1);
       return root;
     }
-}
+};
 ```
 
 ## 889. Construct Binary Tree from Preorder and Postorder Traversal
