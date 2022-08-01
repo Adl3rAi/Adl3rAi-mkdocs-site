@@ -58,6 +58,8 @@ nav:
           - 0 Binary Tree Basics and Traverse: algorithm/tree/basics.md
           - 1 Binary Tree Construct: algorithm/tree/build.md
           - 2 Binary Search Tree Basics: algorithm/tree/bst_basics.md
+          - 3 Sort Algorithm:
+            - 0 Merge Sort: algorithm/tree/merge.md
   - History:
       - The Right Side of History:
         - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md
