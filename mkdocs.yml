@@ -37,9 +37,9 @@ copyright: Copyright &copy; 2022 Adl3rAi
 
 extra:
   social: 
-    - icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/34817352
-      name: Bilibili | AdlerAi
+    # - icon: fontawesome/brands/bilibili
+    #   link: https://space.bilibili.com/34817352
+    #   name: Bilibili | AdlerAi
     - icon: fontawesome/brands/github
       link: https://github.com/Adl3rAi
       name: GitHub | Adl3rAi
@@ -60,6 +60,7 @@ nav:
           - 2 Binary Search Tree Basics: algorithm/tree/bst_basics.md
           - 3 Sort Algorithm:
             - 0 Merge Sort: algorithm/tree/merge.md
+            - 1 Quick Sort: algorithm/tree/quick.md
   - History:
       - The Right Side of History:
         - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md

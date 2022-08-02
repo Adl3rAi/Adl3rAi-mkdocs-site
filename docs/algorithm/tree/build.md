@@ -243,24 +243,24 @@ public:
     TreeNode* constructFromPrePost(vector<int>& preorder, vector<int>& postorder) {
         return build(preorder, 0, preorder.size()-1, postorder, 0, postorder.size()-1);
     }
-    TreeNode* build(vector<int>& preorder, int prestart, int preend, vector<int>& postorder, int poststart, int postend) {
-        if(prestart > preend) return nullptr;
-        if(prestart == preend) {
-            return new TreeNode(preorder[prestart]);
+    TreeNode* build(vector<int>& preorder, int preStart, int preEnd, vector<int>& postorder, int postStart, int postEnd) {
+        if(preStart > preEnd) return nullptr;
+        if(preStart == preEnd) {
+            return new TreeNode(preorder[preStart]);
         }
-        int rootVal = preorder[prestart];
-        int leftRootVal = preorder[prestart+1];
+        int rootVal = preorder[preStart];
+        int leftRootVal = preorder[preStart + 1];
         int index;
-        for(int i = 0; i < postorder.size(); i++) {
+        for(int i = postStart; i <= postEnd; i++) {
             if(postorder[i] == leftRootVal) {
                 index = i;
                 break;
             }
         }
-        int leftSize = index - poststart + 1;
+        int leftSize = index - postStart + 1;
         TreeNode* root = new TreeNode(rootVal);
-        root->left = build(preorder, prestart + 1, prestart + leftSize, postorder, poststart, index);
-        root->right = build(preorder, prestart + leftSize + 1, preend, postorder, index + 1, postend - 1);
+        root->left = build(preorder, preStart+1, preStart+leftSize, postorder, postStart, index);
+        root->right = build(preorder, preStart+leftSize+1, preEnd, postorder, index+1, postEnd-1);
         return root;
     }
 };
