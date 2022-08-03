@@ -2,8 +2,8 @@
 
 | Difficulty |                           LeetCode                           |                             Note                             |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     🟠      | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [912. Sort an Array]() |
-|     🟠      | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [215. Kth Largest Element in an Array]() |
+|     🟠      | [912. Sort an Array](https://leetcode.com/problems/sort-an-array/) | [912. Sort an Array](#912-sort-an-array) |
+|     🟠      | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [215. Kth Largest Element in an Array](#215-kth-largest-element-in-an-array) |
 
 **快速排序的本质是构建二叉搜索树**
 
