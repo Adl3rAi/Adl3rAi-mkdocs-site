@@ -62,6 +62,8 @@ nav:
             - 0 Merge Sort: algorithm/tree/merge.md
             - 1 Quick Sort: algorithm/tree/quick.md
           - 4 Lowest Common Ancestor: algorithm/tree/lca.md
+        - Design:
+          - 0 Least Recently Used(LRU) cache: algorithm/design/lru.md
   - History:
       - The Right Side of History:
         - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md

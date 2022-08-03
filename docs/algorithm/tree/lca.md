@@ -2,7 +2,7 @@
 
 | Difficulty |                           LeetCode                           |                             Note                             |
 | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     🟠      | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [236. Lowest Common Ancestor of a Binary Tree](https://github.com/Adl3rAi/leetCodeNotes/blob/main/Binary_Tree.md#236-lowest-common-ancestor-of-a-binary-tree) |
+|     🟠      | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [236. Lowest Common Ancestor of a Binary Tree](#236-lowest-common-ancestor-of-a-binary-tree) |
 
 找到二叉树两个节点的最小公共祖先首先要找到这两个节点的位置，那么问题就转变为`TreeNode* find(TreeNode* root, TreeNode* target)`
 
