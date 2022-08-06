@@ -45,8 +45,13 @@ twitter.getNewsFeed(1);  // User 1's news feed should return a list with 1 tweet
 
 设计推特需要实现的API
 
-```cpp
-
+```java
+class Twitter {
+  public void postTweet(int userId, int tweetId){}
+  public List<Integer> getNewsFeed(int userId){}
+  public void follow(int followerId, int followeeId){}
+  public void unfollow(int followerId, int followeeId){}
+}
 ```
 
 API的具体用法
@@ -67,15 +72,32 @@ twitter.getNewsFeed(1); // return [5]
 首先需要一个`User`类，以储存`user`信息，还需要一个`Tweet`类，以储存推文信息，并且`Tweet`类要作为链表的节点
 
 ```cpp
-
+class Twitter{
+  private static int timestamp = 0;
+  private static class Tweet {...}
+  private static class User {...}
+  public void postTweet(int userId, int tweetId) {}
+  public List<Integer> getNewsFeed(int userId) {}
+  public void follow(int followerId, int followeeId){}
+  public void unfollow(int followerId, int followeeId){}
+}
 ```
 
 `Tweet`类的实现
 
 每个`Tweet`实例需要记录`tweetId`和`time`，作为链表节点，还需要指向下一个节点的`next`指针
 
-```cpp
-
+```java
+class Tweet {
+  private int id;
+  private int time;
+  private Tweet next;
+  public Tweet(int id, int time) {
+    this.id = id;
+    this.time = time;
+    this.next = null;
+  }
+}
 ```
 
 `User`类的实现
@@ -88,11 +110,86 @@ twitter.getNewsFeed(1); // return [5]
 
 并且，`follow(),unfollow(),postTweet()`都应该是`User`的行为
 
-```cpp
-
+```java
+class User {
+  private int id;
+  public Set<Integer> followed;
+  public Tweet head;
+  public User(int userId) {
+    followed = new HashSet<>();
+    this.id = userId;
+    this.head = null;
+    follow(id);
+  }
+  public void follow(int userId) {
+    followed.add(userId);
+  }
+  public void unfollow(int userId) {
+    if(userId != this.id) {
+      followed.remove(userId);
+    }
+  }
+  public void post(int tweetId) {
+    Tweet twt = new Tweet(tweetId, timestamp);
+    timestamp++;
+    twt.next = head;
+    head = twt;
+  }
+}
 ```
 
-```cpp
-
+```java
+class Twitter {
+  private static int timestamp = 0;
+  private static class Tweet {...}
+  private static class User {...}
+  // userMap将userId和User对象一一对应
+  private HashMap<Integer, User> userMap = new HashMap<>();
+  public void postTweet(int userId, int tweetId) {
+    if(!userMap.containsKey(userId)) {
+      userMap.put(userId, new User(userId));
+    }
+    User u = userMap.get(userId);
+    u.post(tweetId);
+  }
+  public void follow(int followerId, int followeeId) {
+    // follower不存在，则新建
+    if(!userMap.containsKey(followerId)) {
+      User u = new User(followerId);
+      userMap.put(followerId, u);
+    }
+    if(!userMap.containsKey(followeeId)) {
+      User u = new User(followeeId);
+      userMap.put(followeeId, u);
+    }
+    userMap.get(followerId).follow(followeeId);
+  }
+  public void unfollow(int followerId, int followeeId) {
+    if(userMap.containsKey(followerId)) {
+      User flwer = userMap.get(followerId);
+      flwer.unfollow(followeeId);
+    }
+  }
+  public List<Integer> getNewsFeed(int userId) {
+    List<Integer> res = new ArrayList<>();
+    if(!userMap.containsKey(userId)) return res;
+    Set<Integer> users = userMap.get(userId).followed;
+    PriorityQueue<Tweet> pq = new PriorityQueue<>(users.size(), (a,b)->(b.time-a.time));
+    for(int id : users) {
+      Tweet twt = userMap.get(id).head;
+      if(twt == null) continue;
+      pq.add(twt);
+    }
+    while(!pq.isEmpty()) {
+      if(res.size() == 10) break;
+      Tweet twt = pq.poll();
+      res.add(twt.id);
+      if(twt.next != null) {
+        pq.add(twt.next);
+      }
+    }
+    return res;
+  }
+}
 ```
 
