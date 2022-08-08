@@ -1,9 +1,5 @@
 # Lecture 2
 
-<img src="/Users/huqingyuan/Desktop/mkdocs-site/docs/pic/iosdev/gif1.gif" alt="gif1" style="zoom:45%;" />
-
-
-
 **Content View**
 
 ```swift
