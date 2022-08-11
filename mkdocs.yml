@@ -51,6 +51,8 @@ nav:
   #       - Lecture 2: Learning more about SwiftUI: dev/iosstanford/lec2.md
   - Algorithm:
       - Data Structure:
+        - Array:
+          - 0 Double Pointer: algorithm/array/double.md
         - Linked List:
           - 0 Single Linked List: algorithm/linked_list/single.md
           - 1 Reverse Linked List: algorithm/linked_list/reverse.md
