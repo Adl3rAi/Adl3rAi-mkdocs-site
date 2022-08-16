@@ -245,7 +245,7 @@ class Solution {
     }
     return res;
   }
-  private String palindrome(String s, int 1, int r) {
+  private String palindrome(String s, int l, int r) {
     while(l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
       l--;
       r++;

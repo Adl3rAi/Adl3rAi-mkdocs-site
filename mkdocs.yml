@@ -53,6 +53,8 @@ nav:
       - Data Structure:
         - Array:
           - 0 Double Pointer: algorithm/array/double.md
+          - 1 Prefix Sum Array: algorithm/array/presum.md
+          - 2 Difference Array: algorithm/array/diff.md
         - Linked List:
           - 0 Single Linked List: algorithm/linked_list/single.md
           - 1 Reverse Linked List: algorithm/linked_list/reverse.md
@@ -87,6 +89,7 @@ nav:
           - V: language/german/beim_bau_der_chinesischen_mauer/text5.md
         - Öko und Welt:
           - Ökostrom - was der Umwelt wirklich nutzt: language/german/oeko/text1.md
+          - Mehr Unabhängigkeit bei Kohle, Gas und Öl: language/german/oeko/text2.md
         - Kultur:
           - Über einige Merkmale westlicher Gesellschaft: language/german/kultur/text1.md
         - Politik:
