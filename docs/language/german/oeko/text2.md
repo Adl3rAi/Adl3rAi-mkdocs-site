@@ -21,3 +21,47 @@
 
 * verzichten == von etw absehen
 
+**Öl- und Kohlekraftwerke sollen so <u>ertüchtigt</u> werden, dass sie jederzeit auf Abruf für den Markt <u>bereitstehen</u>.**
+
+* ertüchtigen == Sport treiben == Sport machen == kräftigen
+* bereitstehen == verfügbar gemacht == zur Verfügung stehen
+
+**Mit dem ersten Teil des "Sommerpakets" will die Bundesregierung zudem den Winkkraftausbau an Land deutlich schneller planen und <u>genehmigen</u>.**
+
+* genehmigen == erlauben
+
+**Ob und <u>inwiefern</u> eine Verlängerung der Laufzeit von Atomkraftwerken zur Energiesicherheit beiträgt.**
+
+* inwiefern == in welchem Ausmaß
+
+**Wenn die Ergebnisse vorliegen, kann die Lage <u>gegebenenfalls</u> nue eingeschätzt und evaluieret werden.**
+
+* gegebenenfalls(ggf.) == nötigenfalls == wenn nötig
+
+**<u>Sie sind so ausgerichtet</u>, dass sie Russland mehr schaden als uns selbst.**
+
+* ausrichten == mit einer Handlung etwas bewirken
+
+**Russland ist weitgehend vom westlichen Finanzmarkt <u>abgeschnitten</u>, die russiche Zentralbank kann nicht mehr <u>auf ihre Reverven zugreifen</u>, die russichen <u>Einnahme</u> aus Exporten wurden <u>begrenzt</u> und Russlands Möglichkeiten, wichtige westliche Technologie zu importieren, <u>beschnitten</u>.**
+
+* abschneiden == abtrennen == wegschneiden
+* auf etw zugreifen 抓取
+* beschneiden == begrenzen
+
+**Mit der Einschränkung der Ölexportmöglichkeiten <u>ergeben sich</u> weitere <u>Einschnitt</u>e bei den russichen Einnahme.**
+
+* sich ergeben == entstehen
+* die Einschnitte(Bruch/Unterbrechung) bei den russichen Einnahme
+
+**Auch Privathaushalte sollen mitmachen, denn auf sie entfallen 29 Prozent des gesamten Energieverbrauchs - überwiegend für Warmwasser und Heizen.**
+
+* auf etw entfallen etw
+
+**Eigentümerinnen und Vermieter sollen Heizungschecks, Heizungsabgleiche machen lassen oder ieffiziente Heizungspumpen <u>austauschen</u>.**
+
+* austauschen == ersetzen
+
+**Für Mieterinnen und Mieter soll es einen vertraglichen Spielraum zur Absenkung der Mindestraumtemperatur geben.**
+
+* das Spielraum == Platz
+* vertraglich == Vertrag(合同/条约) + lich
