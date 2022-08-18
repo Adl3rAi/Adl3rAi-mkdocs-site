@@ -55,6 +55,7 @@ nav:
           - 0 Double Pointer: algorithm/array/double.md
           - 1 Prefix Sum Array: algorithm/array/presum.md
           - 2 Difference Array: algorithm/array/diff.md
+          - 3 2D Array Traverse: algorithm/array/2dtraverse.md
         - Linked List:
           - 0 Single Linked List: algorithm/linked_list/single.md
           - 1 Reverse Linked List: algorithm/linked_list/reverse.md
