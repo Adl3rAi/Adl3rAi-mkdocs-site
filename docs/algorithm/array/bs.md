@@ -1,5 +1,10 @@
 # Binary Search
 
+| Difficulty |                           LeetCode                           | Note |
+| :--------: | :----------------------------------------------------------: | :--: |
+|     🟢      | [704. Binary Search](https://leetcode.com/problems/binary-search/) |[704. Binary Search](#704-binary-search)      |
+|     🟠      | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[34. Find First and Last Position of Element in Sorted Array](#34-find-first-and-last-position-of-element-in-sorted-array)      |
+
 二分查找框架
 
 ```java
