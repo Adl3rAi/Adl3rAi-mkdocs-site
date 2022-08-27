@@ -122,9 +122,9 @@ class Solution {
           count++;
         }
       }
-      while(valid == need.size()) {
+      while(count == need.size()) {
         if(right - left < len) {
-          start = len;
+          start = left;
           len = right - left;
         }
         char d = s.charAt(left);

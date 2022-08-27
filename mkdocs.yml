@@ -45,10 +45,11 @@ extra:
       name: GitHub | Adl3rAi
 
 nav:
-  # - iOS-Dev:
-  #     - CS193p:
-  #       - Lecture 1: Getting started with SwiftUI: dev/iosstanford/lec1.md
-  #       - Lecture 2: Learning more about SwiftUI: dev/iosstanford/lec2.md
+  - iOS:
+      - CS193p:
+        - Lecture 1: Getting started with SwiftUI: dev/iosstanford/lec1.md
+        - Lecture 2: Learning more about SwiftUI: dev/iosstanford/lec2.md
+        - Lecture 3: MVVM and the Swift type System: dev/iosstanford/lec3.md
   - Algorithm:
       - Data Structure:
         - Array:
@@ -61,6 +62,7 @@ nav:
           - 6 Binary Search:
             - 0 Basics: algorithm/array/bs.md
             - 1 Extremum: algorithm/array/extre.md
+            - 2 Random Pick with Weight: algorithm/array/randweight.md
         - Linked List:
           - 0 Single Linked List: algorithm/linked_list/single.md
           - 1 Reverse Linked List: algorithm/linked_list/reverse.md
