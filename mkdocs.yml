@@ -47,9 +47,9 @@ extra:
 nav:
   - iOS:
       - CS193p:
-        - Lecture 1: Getting started with SwiftUI: dev/iosstanford/lec1.md
-        - Lecture 2: Learning more about SwiftUI: dev/iosstanford/lec2.md
-        - Lecture 3: MVVM and the Swift type System: dev/iosstanford/lec3.md
+        - Lecture 1: Getting started with SwiftUI: ios/iosstanford/lec1.md
+        - Lecture 2: Learning more about SwiftUI: ios/iosstanford/lec2.md
+        - Lecture 3: MVVM and the Swift type System: ios/iosstanford/lec3.md
   - Algorithm:
       - Data Structure:
         - Array:
