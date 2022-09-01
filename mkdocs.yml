@@ -45,14 +45,14 @@ extra:
       name: GitHub | Adl3rAi
 
 nav:
-  - iOS:
-      - Memorize Game:
-        - 1 Getting started with SwiftUI: ios/iosstanford/lec1.md
-        - 2 Learning more about SwiftUI: ios/iosstanford/lec2.md
-        - 3 MVVM and the Swift type System: ios/iosstanford/lec3.md
-        - 4 Memorize Game Logic: ios/iosstanford/lec4.md
-        - 5 Properties Layout @ViewBuilder: ios/iosstanford/lec5.md
-        - 6 Protocols Shapes: ios/iosstanford/lec6.md
+  # - iOS:
+  #     - Memorize Game:
+  #       - 1 Getting started with SwiftUI: ios/iosstanford/lec1.md
+  #       - 2 Learning more about SwiftUI: ios/iosstanford/lec2.md
+  #       - 3 MVVM and the Swift type System: ios/iosstanford/lec3.md
+  #       - 4 Memorize Game Logic: ios/iosstanford/lec4.md
+  #       - 5 Properties Layout @ViewBuilder: ios/iosstanford/lec5.md
+  #       - 6 Protocols Shapes: ios/iosstanford/lec6.md
   - Algorithm:
       - Data Structure:
         - Array:
@@ -112,6 +112,8 @@ nav:
           - Befürchtete Eskalation im Taiwankonflikt - deutsche Außerpolitiker warnen vor katastrophalen Folge: language/german/politik/text6.md
           - Und er kann doch lächeln: language/german/politik/text7.md
           - Wirtschaftskrieg mit China wäre teuer: language/german/politik/text8.md
+        - Politiksystem:
+          - 0 Wahl des Bundeskanzlers: language/german/politiksystem/text1.md
 
 plugins:
   - search: 
