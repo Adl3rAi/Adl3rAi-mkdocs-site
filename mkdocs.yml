@@ -45,14 +45,14 @@ extra:
       name: GitHub | Adl3rAi
 
 nav:
-  # - iOS:
-  #     - Memorize Game:
-  #       - 1 Getting started with SwiftUI: ios/iosstanford/lec1.md
-  #       - 2 Learning more about SwiftUI: ios/iosstanford/lec2.md
-  #       - 3 MVVM and the Swift type System: ios/iosstanford/lec3.md
-  #       - 4 Memorize Game Logic: ios/iosstanford/lec4.md
-  #       - 5 Properties Layout @ViewBuilder: ios/iosstanford/lec5.md
-  #       - 6 Protocols Shapes: ios/iosstanford/lec6.md
+  - iOS:
+      - Memorize Game:
+        - 1 Getting started with SwiftUI: ios/iosstanford/lec1.md
+        - 2 Learning more about SwiftUI: ios/iosstanford/lec2.md
+        - 3 MVVM and the Swift type System: ios/iosstanford/lec3.md
+        - 4 Memorize Game Logic: ios/iosstanford/lec4.md
+        - 5 Properties Layout @ViewBuilder: ios/iosstanford/lec5.md
+        - 6 Protocols Shapes: ios/iosstanford/lec6.md
   - Algorithm:
       - Data Structure:
         - Array:
