@@ -46,7 +46,7 @@ extra:
 
 nav:
   - iOS:
-      - CS193p:
+      - Memorize Game:
         - 1 Getting started with SwiftUI: ios/iosstanford/lec1.md
         - 2 Learning more about SwiftUI: ios/iosstanford/lec2.md
         - 3 MVVM and the Swift type System: ios/iosstanford/lec3.md
