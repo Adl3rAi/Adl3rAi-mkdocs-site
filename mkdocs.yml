@@ -112,8 +112,10 @@ nav:
           - Befürchtete Eskalation im Taiwankonflikt - deutsche Außerpolitiker warnen vor katastrophalen Folge: language/german/politik/text6.md
           - Und er kann doch lächeln: language/german/politik/text7.md
           - Wirtschaftskrieg mit China wäre teuer: language/german/politik/text8.md
+          - Nachfrage nach Made in Germany sinkt: language/german/politik/text9.md
         - Politiksystem:
-          - 0 Wahl des Bundeskanzlers: language/german/politiksystem/text1.md
+          - Aufgaben des Bundeskanzlers: language/german/politiksystem/text2.md
+          - Wahl des Bundeskanzlers: language/german/politiksystem/text1.md
 
 plugins:
   - search: 
