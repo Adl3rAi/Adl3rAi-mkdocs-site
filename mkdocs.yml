@@ -56,7 +56,7 @@ nav:
   - Algorithm:
       - Data Structure:
         - Array:
-          - 0 Double Pointer: algorithm/array/double.md
+          - 0 Two Pointers: algorithm/array/double.md
           - 1 Prefix Sum Array: algorithm/array/presum.md
           - 2 Difference Array: algorithm/array/diff.md
           - 3 2D Array Traverse: algorithm/array/2dtraverse.md
@@ -66,6 +66,8 @@ nav:
             - 0 Basics: algorithm/array/bs.md
             - 1 Extremum: algorithm/array/extre.md
             - 2 Random Pick with Weight: algorithm/array/randweight.md
+            - 3 Advantage Shuffle: algorithm/array/advantage.md
+          - 7 O(1) delete/search in an Array: algorithm/array/o1.md
         - Linked List:
           - 0 Single Linked List: algorithm/linked_list/single.md
           - 1 Reverse Linked List: algorithm/linked_list/reverse.md
@@ -81,6 +83,7 @@ nav:
           - 0 Least Recently Used(LRU) cache: algorithm/design/lru.md
           - 1 Least Frequently User(LFU) cache: algorithm/design/lfu.md
           - 2 Design Twitter: algorithm/design/twi.md
+          - 3 Randomized Set: algorithm/design/random.md
   - History:
       - The Right Side of History:
         - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md
@@ -103,7 +106,7 @@ nav:
           - Mehr Unabhängigkeit bei Kohle, Gas und Öl: language/german/oeko/text2.md
         - Technologie:
           - Werben für die Wechselbatterie: language/german/tech/text1.md
-          - Was Mecedes anders macht als Tesla: language/german/tech/text2.md
+          - Was Mercedes anders macht als Tesla: language/german/tech/text2.md
         - Kultur:
           - Über einige Merkmale westlicher Gesellschaft: language/german/kultur/text1.md
         - Politik:
