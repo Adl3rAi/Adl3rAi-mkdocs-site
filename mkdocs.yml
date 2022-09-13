@@ -85,6 +85,7 @@ nav:
           - 2 Design Twitter: algorithm/design/twi.md
           - 3 Randomized Set: algorithm/design/random.md
           - 4 Find Median from Data Stream: algorithm/design/median.md
+          - 5 Next Greater Element with Stack: algorithm/design/nxtGreater.md
   - History:
       - The Right Side of History:
         - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md
