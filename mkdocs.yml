@@ -68,6 +68,7 @@ nav:
             - 2 Random Pick with Weight: algorithm/array/randweight.md
             - 3 Advantage Shuffle: algorithm/array/advantage.md
           - 7 O(1) delete/search in an Array: algorithm/array/o1.md
+          - 8 Remove Duplicate Elements with Stack: algorithm/array/rm.md
         - Linked List:
           - 0 Single Linked List: algorithm/linked_list/single.md
           - 1 Reverse Linked List: algorithm/linked_list/reverse.md
