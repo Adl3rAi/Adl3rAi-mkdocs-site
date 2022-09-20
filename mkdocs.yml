@@ -91,6 +91,13 @@ nav:
           - 7 Binary Heap designs Priority Queue: algorithm/design/pq.md
           - 8 Implement Queues using Stacks: algorithm/design/s2q.md
           - 9 Implement Stacks using Queues: algorithm/design/q2s.md
+      - Dynamic Programming:
+        - Basics:
+          - 0 Frame: algorithm/dp/frame.md
+        - Subsequence Problem:
+          - 0 Longest Increasing Subsequence(LIS): algorithm/dp/lis.md
+          - 1 Distance of Two Strings: algorithm/dp/dst.md
+          - 2 Longest Common Subsequence(LCS): algorithm/dp/lcs.md
   - History:
       - The Right Side of History:
         - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md

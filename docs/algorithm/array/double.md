@@ -1,4 +1,4 @@
-# Double Pointer
+# Two Pointer
 
 | Difficulty |                           LeetCode                           | Note |
 | :--------: | :----------------------------------------------------------: | :--: |
