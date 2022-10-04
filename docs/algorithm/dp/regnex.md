@@ -5,15 +5,16 @@
 |     🔴      | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) |[10. Regular Expression Matching](#10-regular-expression-matching)      |
 
 ## 10. Regular Expression Matching
-Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where:
+Given an input string `s` and a pattern `p`, implement regular expression matching with support for `'.'` and `'*'` where:
 
-'.' Matches any single character.​​​​
-'*' Matches zero or more of the preceding element.
-The matching should cover the entire input string (not partial).
+- `'.'` Matches any single character.
+- `'*'` Matches zero or more of the preceding element.
+
+The matching should cover the **entire** input string (not partial).
 
  
 
-Example 1:
+**Example 1:**
 
 ```
 Input: s = "aa", p = "a"
@@ -21,27 +22,31 @@ Output: false
 Explanation: "a" does not match the entire string "aa".
 ```
 
-Example 2:
+**Example 2:**
+
 ```
 Input: s = "aa", p = "a*"
 Output: true
 Explanation: '*' means zero or more of the preceding element, 'a'. Therefore, by repeating 'a' once, it becomes "aa".
 ```
 
-Example 3:
+**Example 3:**
+
 ```
 Input: s = "ab", p = ".*"
 Output: true
 Explanation: ".*" means "zero or more (*) of any character (.)".
 ```
 
-Constraints:
+ 
 
-1 <= s.length <= 20
-1 <= p.length <= 30
-s contains only lowercase English letters.
-p contains only lowercase English letters, '.', and '*'.
-It is guaranteed for each appearance of the character '*', there will be a previous valid character to match.
+**Constraints:**
+
+- `1 <= s.length <= 20`
+- `1 <= p.length <= 30`
+- `s` contains only lowercase English letters.
+- `p` contains only lowercase English letters, `'.'`, and `'*'`.
+- It is guaranteed for each appearance of the character `'*'`, there will be a previous valid character to match.
 
 一旦涉及到两个字符串的穷举，理应条件反射式地想到动态规划。
 
@@ -147,6 +152,88 @@ class Solution {
             } else {
                 res = 1;
             }
+        }
+        memo[i][j] = res;
+        return res;
+    }
+}
+```
+
+## 44. Wildcard Matching
+
+Given an input string (`s`) and a pattern (`p`), implement wildcard pattern matching with support for `'?'` and `'*'` where:
+
+- `'?'` Matches any single character.
+- `'*'` Matches any sequence of characters (including the empty sequence).
+
+The matching should cover the **entire** input string (not partial).
+
+ 
+
+**Example 1:**
+
+```
+Input: s = "aa", p = "a"
+Output: false
+Explanation: "a" does not match the entire string "aa".
+```
+
+**Example 2:**
+
+```
+Input: s = "aa", p = "*"
+Output: true
+Explanation: '*' matches any sequence.
+```
+
+**Example 3:**
+
+```
+Input: s = "cb", p = "?a"
+Output: false
+Explanation: '?' matches 'c', but the second letter is 'a', which does not match 'b'.
+```
+
+ 
+
+**Constraints:**
+
+- `0 <= s.length, p.length <= 2000`
+- `s` contains only lowercase English letters.
+- `p` contains only lowercase English letters, `'?'` or `'*'`.
+
+```java
+class Solution {
+    public int[][] memo;
+    public boolean isMatch(String s, String p) {
+        int m = s.length();
+        int n = p.length();
+        memo = new int[m][n];
+        for(int i = 0; i < m; i++) {
+            Arrays.fill(memo[i],-1);
+        }
+        if(dp(s,0,p,0) == 0) return true;
+        else return false;
+    }
+    public int dp(String s, int i, String p, int j) {
+        int m = s.length();
+        int n = p.length();
+        if(j == n) {
+            if(i == m) return 0;
+            else return 1;
+        }
+        if(i == m) {
+            for(int k = j; k < n; k++) {
+                if(p.charAt(k) != '*') return 1;
+            }
+            return 0;
+        }
+        if(memo[i][j] != -1) return memo[i][j];
+        int res = 1;
+        if(s.charAt(i) == p.charAt(j) || p.charAt(j) == '?') {
+            res = dp(s,i+1,p,j+1);
+        } else if(p.charAt(j) == '*') {
+            res = Math.min(dp(s,i+1,p,j),dp(s,i,p,j+1));
         }
         memo[i][j] = res;
         return res;
