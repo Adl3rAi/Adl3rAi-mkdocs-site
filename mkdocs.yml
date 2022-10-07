@@ -99,8 +99,11 @@ nav:
           - 1 Distance of Two Strings: algorithm/dp/dst.md
           - 2 Longest Common Subsequence(LCS): algorithm/dp/lcs.md
         - Maximum Subarray: algorithm/dp/maxsub.md
+        - Minimum Path Sum: algorithm/dp/minpath.md
         - Regular Expression Matching: algorithm/dp/regnex.md
         - Stock Problem: algorithm/dp/stock.md
+      - Other:
+        - Trapping Water Problem: algorithm/other/rain.md
   - History:
       - The Right Side of History:
         - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md
