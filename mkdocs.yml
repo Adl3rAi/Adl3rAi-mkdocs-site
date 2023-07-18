@@ -104,46 +104,46 @@ nav:
         - Stock Problem: algorithm/dp/stock.md
       - Other:
         - Trapping Water Problem: algorithm/other/rain.md
-  - History:
-      - The Right Side of History:
-        - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md
-        - 1 From the Mountaintop: history/the_right_side_of_history/note2.md
-      - The Great Wall of China:
-        - The build-era sorted by nine garrisons: history/the_great_wall/tgw.md
-  - Language:
-      - German:
-        - Apple:
-          - Apple und iPhone: language/german/apple/text1.md
-          - Apple und Foxconns Suizide: language/german/apple/text2.md   
-        - Beim Bau der chinesischen Mauer:
-          - I: language/german/beim_bau_der_chinesischen_mauer/text1.md
-          - II: language/german/beim_bau_der_chinesischen_mauer/text2.md
-          - III: language/german/beim_bau_der_chinesischen_mauer/text3.md
-          - IV: language/german/beim_bau_der_chinesischen_mauer/text4.md
-          - V: language/german/beim_bau_der_chinesischen_mauer/text5.md
-        - Öko und Welt:
-          - Ökostrom - was der Umwelt wirklich nutzt: language/german/oeko/text1.md
-          - Mehr Unabhängigkeit bei Kohle, Gas und Öl: language/german/oeko/text2.md
-        - Technologie:
-          - Werben für die Wechselbatterie: language/german/tech/text1.md
-          - Was Mercedes anders macht als Tesla: language/german/tech/text2.md
-        - Kultur:
-          - Über einige Merkmale westlicher Gesellschaft: language/german/kultur/text1.md
-        - Politik:
-          - Trägt Finnland zur Uniper-Rettung bei?: language/german/politik/text1.md
-          - Wo bleibt das Machtwort des Kanzlers?: language/german/politik/text2.md
-          - Merkels Geschenk: language/german/politik/text3.md
-          - China nutzt Pelosi-Besuch als Vorwand: language/german/politik/text4.md
-          - 16 chinesische Kampfjets überqueren die Medianlinie: language/german/politik/text5.md
-          - Befürchtete Eskalation im Taiwankonflikt - deutsche Außerpolitiker warnen vor katastrophalen Folge: language/german/politik/text6.md
-          - Und er kann doch lächeln: language/german/politik/text7.md
-          - Wirtschaftskrieg mit China wäre teuer: language/german/politik/text8.md
-          - Nachfrage nach Made in Germany sinkt: language/german/politik/text9.md
-          - Erst das Geschäft, dann die Menschenrechte: language/german/politik/text10.md
-          - Wohngeldreform Das plant die Bundesregierung: language/german/politik/text11.md
-        - Politiksystem:
-          - Aufgaben des Bundeskanzlers: language/german/politiksystem/text2.md
-          - Wahl des Bundeskanzlers: language/german/politiksystem/text1.md
+  # - History:
+  #     - The Right Side of History:
+  #       - 0 The pursuit of happiness: history/the_right_side_of_history/note1.md
+  #       - 1 From the Mountaintop: history/the_right_side_of_history/note2.md
+  #     - The Great Wall of China:
+  #       - The build-era sorted by nine garrisons: history/the_great_wall/tgw.md
+  # - Language:
+  #     - German:
+  #       - Apple:
+  #         - Apple und iPhone: language/german/apple/text1.md
+  #         - Apple und Foxconns Suizide: language/german/apple/text2.md   
+  #       - Beim Bau der chinesischen Mauer:
+  #         - I: language/german/beim_bau_der_chinesischen_mauer/text1.md
+  #         - II: language/german/beim_bau_der_chinesischen_mauer/text2.md
+  #         - III: language/german/beim_bau_der_chinesischen_mauer/text3.md
+  #         - IV: language/german/beim_bau_der_chinesischen_mauer/text4.md
+  #         - V: language/german/beim_bau_der_chinesischen_mauer/text5.md
+  #       - Öko und Welt:
+  #         - Ökostrom - was der Umwelt wirklich nutzt: language/german/oeko/text1.md
+  #         - Mehr Unabhängigkeit bei Kohle, Gas und Öl: language/german/oeko/text2.md
+  #       - Technologie:
+  #         - Werben für die Wechselbatterie: language/german/tech/text1.md
+  #         - Was Mercedes anders macht als Tesla: language/german/tech/text2.md
+  #       - Kultur:
+  #         - Über einige Merkmale westlicher Gesellschaft: language/german/kultur/text1.md
+  #       - Politik:
+  #         - Trägt Finnland zur Uniper-Rettung bei?: language/german/politik/text1.md
+  #         - Wo bleibt das Machtwort des Kanzlers?: language/german/politik/text2.md
+  #         - Merkels Geschenk: language/german/politik/text3.md
+  #         - China nutzt Pelosi-Besuch als Vorwand: language/german/politik/text4.md
+  #         - 16 chinesische Kampfjets überqueren die Medianlinie: language/german/politik/text5.md
+  #         - Befürchtete Eskalation im Taiwankonflikt - deutsche Außerpolitiker warnen vor katastrophalen Folge: language/german/politik/text6.md
+  #         - Und er kann doch lächeln: language/german/politik/text7.md
+  #         - Wirtschaftskrieg mit China wäre teuer: language/german/politik/text8.md
+  #         - Nachfrage nach Made in Germany sinkt: language/german/politik/text9.md
+  #         - Erst das Geschäft, dann die Menschenrechte: language/german/politik/text10.md
+  #         - Wohngeldreform Das plant die Bundesregierung: language/german/politik/text11.md
+  #       - Politiksystem:
+  #         - Aufgaben des Bundeskanzlers: language/german/politiksystem/text2.md
+  #         - Wahl des Bundeskanzlers: language/german/politiksystem/text1.md
 
 plugins:
   - search: 
